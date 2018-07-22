@@ -94,7 +94,7 @@ Vagrant.configure("2") do |config|
     # When set, `configuration_name`, `configuration_data_file_path`,
     # `configuration_file_path`, `configuration_data_file` and
     # `manifests_path` are ignored.
-    dsc.mof_path = "mof_output"
+    #dsc.mof_path = "mof_output"
 
     # Relative path to the folder containing the root Configuration manifest file.
     # Defaults to 'manifests'.
